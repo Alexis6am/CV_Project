@@ -1,5 +1,6 @@
 /data/raw/*
 /data/processed/*
+/data/SKU-110K/*
 
 !/data/raw/README.md
 !/data/processed/README.md
